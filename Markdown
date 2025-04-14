@@ -1,0 +1,17 @@
+Markdown 
+
+Day	Date	Total	Task #1
+Saturday	1-Mar-25	0 hours	Week Off
+Sunday	2-Mar-25	8 hours	SQL Server Project Tasks
+Monday	3-Mar-25	8 hours	SQL Server Project Tasks
+Tuesday	4-Mar-25	8 hours	SQL Server Project Tasks
+Wednesday	5-Mar-25	8 hours	SQL Server Project Tasks
+Thursday	6-Mar-25	8 hours	SQL Server Project Tasks
+Friday	7-Mar-25	0 hours	Week Off
+Saturday	8-Mar-25	0 hours	Week Off
+Sunday	9-Mar-25	8 hours	SQL Server Project Tasks
+Monday	10-Mar-25	8 hours	SQL Server Project Tasks
+Tuesday	11-Mar-25	8 hours	SQL Server Project Tasks
+Wednesday	12-Mar-25	8 hours	SQL Server Project Tasks
+Thursday	13-Mar-25	8 hours	SQL Server Project Tasks
+Friday	14-Mar-25	0 hours	Week Off
