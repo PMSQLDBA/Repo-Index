@@ -45,22 +45,58 @@
 
 22) SQL Server DR Activities  -- https://github.com/PMSQLDBA/SQL-Server-DR-Activities 
 
-23) SQL Server Monitoring Tools  -- https://github.com/PMSQLDBA/SQL-Server-Monitoring-Tools 
+23) SQL Server Monitoring Tools (Native & 3rd Party)  -- https://github.com/PMSQLDBA/SQL-Server-Monitoring-Tools
+
+                                                      -- https://ajaydwivedi.com/baseline-sql-server/baseline-sqlserver-with-sqlmonitor-v1-6-0/
 
 24) SQL Server DB Monitoring Scripts  -- https://github.com/PMSQLDBA/SQL-Server-DB-Monitoring-Scripts 
 
 25) SQL Server PowerShell DBATools -- https://github.com/PMSQLDBA/SQL-Server-PowerShell-DBATools 
 
-26) Backup Software's (3rd Party)  -- 
-    Litespeed, Redgate Backup, Commvault, Druva 
+26) Backup Software's (3rd Party)  -- Litespeed, Redgate Backup, Commvault, Druva 
 
 27) SQL DBA FAQs  -- https://github.com/PMSQLDBA/SQL-DBA-FAQs
 
-
-
 ============================================================================================================
-ITSM Knowledge  -- https://github.com/PMSQLDBA/ITSM-Knowledge 
+RDBMS: 
 
+Oracle DBA  -- https://github.com/PMSQLDBA/Oracle-DB-Administration 
+
+MYSQL DBA  -- https://github.com/PMSQLDBA/MYSQL-DBA 
+
+PostgreSQL DBA  -- https://github.com/PMSQLDBA/PostgreSQL-DBA 
+
+MariaDB DBA  -- https://github.com/PMSQLDBA/MariaDB-DBA
+
+DB2 DBA  -- https://github.com/PMSQLDBA/DB2-DBA 
+
+Amazon Aurora -- https://github.com/PMSQLDBA/MariaDB-DBA
+
+Google Cloud -- https://github.com/PMSQLDBA/Google-Cloud
+
+*************************************************************************************************************************8888
+NoSQL: (Document)
+
+MongoDB DBA  -- https://github.com/PMSQLDBA/MongoDB-DBA 
+*************************************************************************************************************************
+NoSQL: (Key-Value)
+
+Redis -- 
+
+Amazon DynamoDB -- 
+
+NoSQL: (Wide-Column) -- 
+
+Apache Cassandra -- https://github.com/PMSQLDBA/Cassandra-DBA
+
+ScyllaDB -- 
+
+****************************************************************************************************************************
+Amazon Redshift: cloud-based, columnar data warehouse.
+
+                -- https://github.com/PMSQLDBA/Amazon-Redshift
+
+****************************************************************************************************************************
 Roles & Responsibilities On-Prem\Cloud -- https://github.com/PMSQLDBA/Roles-Responsibilities-Onprem-Cloud 
 
 Cloud Articles -- https://github.com/PMSQLDBA/Cloud-Articles 
@@ -69,14 +105,20 @@ AWS Cloud  -- https://github.com/PMSQLDBA/AWS-Cloud
 
 Azure Cloud -- https://github.com/PMSQLDBA/Azure-Cloud 
 
+ITSM Knowledge  -- https://github.com/PMSQLDBA/ITSM-Knowledge 
+
+********************************************************************************************************************************
+
 Linux Administration -- https://github.com/PMSQLDBA/Linux-Administration 
 
-PostgreSQL DBA  -- https://github.com/PMSQLDBA/PostgreSQL-DBA 
 
-MongoDB DBA  -- https://github.com/PMSQLDBA/MongoDB-DBA 
 
-MYSQL DBA  -- https://github.com/PMSQLDBA/MYSQL-DBA 
 
-DB2 DBA  -- https://github.com/PMSQLDBA/DB2-DBA 
 
-Oracle DBA  -- https://github.com/PMSQLDBA/Oracle-DB-Administration 
+
+
+
+
+
+
+
