@@ -89,13 +89,13 @@ NoSQL: (Key-Value)
 
 Redis -- https://github.com/PMSQLDBA/Redis-AWS
 
-Amazon DynamoDB -- 
+DynamoDB (AWS) -- https://github.com/PMSQLDBA/DynamoDB-AWS 
 
 NoSQL: (Wide-Column) -- 
 
 Apache Cassandra -- https://github.com/PMSQLDBA/Cassandra-DBA
 
-ScyllaDB -- 
+ScyllaDB -- https://github.com/PMSQLDBA/ScyllaDB
 
 ****************************************************************************************************************************
 Amazon Redshift: cloud-based, columnar data warehouse.
