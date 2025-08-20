@@ -1,4 +1,6 @@
 **Repositories Index**
+********************************************************************************************************************************************************
+********************************************************************************************************************************************************
 
 1) SQL Server History -- https://github.com/PMSQLDBA/SQL-Server-History 
 
@@ -9,6 +11,9 @@
 4) DB Architecture  -- https://github.com/PMSQLDBA/DB-Architecture 
 
 5) TempDB (SQL Server) -- https://github.com/PMSQLDBA/TempDB-SQL-Server 
+
+********************************************************************************************************************************************************
+********************************************************************************************************************************************************
 
 6) Backups-Restores  -- https://github.com/PMSQLDBA/Backups-Restores 
 
@@ -21,6 +26,9 @@
 
 10) SQL Server Agent  -- https://github.com/PMSQLDBA/SQL-Server-Agent 
 
+********************************************************************************************************************************************************
+********************************************************************************************************************************************************
+
 11) SQL Server DB Security  -- https://github.com/PMSQLDBA/SQL-Server-DB-Security 
 
 12) DB Log Shipping  -- https://github.com/PMSQLDBA/HADR-DB-Log-Shipping 
@@ -31,6 +39,9 @@
 
 15) Windows Cluster  -- https://github.com/PMSQLDBA/Windows-Cluster 
 
+********************************************************************************************************************************************************
+********************************************************************************************************************************************************
+
 16) SQL Server Clustering -- https://github.com/PMSQLDBA/HADR-SQL-Server-Clustering 
 
 17) SQL Server AlwaysON AG  -- https://github.com/PMSQLDBA/HADR-SQL-Server-AlwaysOn-AG 
@@ -40,6 +51,9 @@
 19) SQL Server DB Troubleshooting  -- https://github.com/PMSQLDBA/SQL-Server-DB-Troubleshooting 
 
 20) SQL Server DB Performance Tuning -- https://github.com/PMSQLDBA/SQL-Server-DB-Performance-Tuning 
+
+********************************************************************************************************************************************************
+********************************************************************************************************************************************************
 
 21) SQL Server Patching  -- https://github.com/PMSQLDBA/SQL-Server-Patching 
 
@@ -53,6 +67,9 @@
 
 25) SQL Server PowerShell DBATools -- https://github.com/PMSQLDBA/SQL-Server-PowerShell-DBATools 
 
+********************************************************************************************************************************************************
+********************************************************************************************************************************************************
+
 26) Backup Software's (3rd Party)  -- Litespeed, Redgate Backup, Commvault, Druva 
 
 27) SQL DBA FAQs  -- https://github.com/PMSQLDBA/SQL-DBA-FAQs
@@ -63,14 +80,16 @@
 
 30) SSAS --
 
-============================================================================================================
-RDBMS: 
+********************************************************************************************************************************************************
+********************************************************************************************************************************************************
 
 Oracle DBA  -- https://github.com/PMSQLDBA/Oracle-DB-Administration 
 
 MYSQL DBA  -- https://github.com/PMSQLDBA/MYSQL-DBA 
 
 PostgreSQL DBA  -- https://github.com/PMSQLDBA/PostgreSQL-DBA 
+
+MongoDB DBA  -- https://github.com/PMSQLDBA/MongoDB-DBA 
 
 MariaDB DBA  -- https://github.com/PMSQLDBA/MariaDB-DBA
 
@@ -81,28 +100,21 @@ Amazon Aurora -- https://github.com/PMSQLDBA/MariaDB-DBA
 Google Cloud -- https://github.com/PMSQLDBA/Google-Cloud
 
 *************************************************************************************************************************8888
-NoSQL: (Document)
-
-MongoDB DBA  -- https://github.com/PMSQLDBA/MongoDB-DBA 
 *************************************************************************************************************************
-NoSQL: (Key-Value)
-
-Redis -- https://github.com/PMSQLDBA/Redis-AWS
+Redis (AWS -- https://github.com/PMSQLDBA/Redis-AWS
 
 DynamoDB (AWS) -- https://github.com/PMSQLDBA/DynamoDB-AWS 
 
-NoSQL: (Wide-Column) -- 
-
+Redshift (AWS): -- https://github.com/PMSQLDBA/Amazon-Redshift
+********************************************************************************************************************************************************
+********************************************************************************************************************************************************
 Apache Cassandra -- https://github.com/PMSQLDBA/Cassandra-DBA
 
 ScyllaDB -- https://github.com/PMSQLDBA/ScyllaDB
 
-****************************************************************************************************************************
-Amazon Redshift: cloud-based, columnar data warehouse.
+********************************************************************************************************************************************************
+********************************************************************************************************************************************************
 
-                -- https://github.com/PMSQLDBA/Amazon-Redshift
-
-****************************************************************************************************************************
 Roles & Responsibilities On-Prem\Cloud -- https://github.com/PMSQLDBA/Roles-Responsibilities-Onprem-Cloud 
 
 Cloud Articles -- https://github.com/PMSQLDBA/Cloud-Articles 
@@ -115,7 +127,8 @@ CosmosDB -- https://github.com/PMSQLDBA/Cosmosdb
 
 ITSM Knowledge  -- https://github.com/PMSQLDBA/ITSM-Knowledge 
 
-********************************************************************************************************************************
+********************************************************************************************************************************************************
+********************************************************************************************************************************************************
 
 Linux Administration -- https://github.com/PMSQLDBA/Linux-Administration 
 
