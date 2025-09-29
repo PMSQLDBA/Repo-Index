@@ -96,20 +96,6 @@ MariaDB DBA  -- https://github.com/PMSQLDBA/MariaDB-DBA
 
 DB2 DBA  -- https://github.com/PMSQLDBA/DB2-DBA 
 
-Amazon Aurora -- https://github.com/PMSQLDBA/Aurora-DBA
-
-Amazon DynamoDB -- https://github.com/PMSQLDBA/DynamoDB-DBA
-
-Google Cloud -- https://github.com/PMSQLDBA/Google-Cloud
-
-*************************************************************************************************************************8888
-*************************************************************************************************************************
-Redis (Amazon ElastiCache) -- https://github.com/PMSQLDBA/Redis-AWS
-
-Redshift (AWS): -- https://github.com/PMSQLDBA/Amazon-Redshift
-
-DynamoDB (AWS) -- https://github.com/PMSQLDBA/DynamoDB-AWS
-
 ********************************************************************************************************************************************************
 ********************************************************************************************************************************************************
 Apache Cassandra -- https://github.com/PMSQLDBA/Cassandra-DBA
@@ -129,14 +115,22 @@ Azure Cloud -- https://github.com/PMSQLDBA/Azure-Cloud
 
 CosmosDB -- https://github.com/PMSQLDBA/Cosmosdb
 
+*************************************************************************************************************************8888
+*************************************************************************************************************************
+Redis (Amazon ElastiCache) -- https://github.com/PMSQLDBA/Redis-AWS
+
+Redshift (AWS): -- https://github.com/PMSQLDBA/Amazon-Redshift
+
+Amazon Aurora -- https://github.com/PMSQLDBA/Aurora-DBA
+
+Amazon DynamoDB -- https://github.com/PMSQLDBA/DynamoDB-DBA
+
+Google Cloud -- https://github.com/PMSQLDBA/Google-Cloud
+
 ITSM Knowledge  -- https://github.com/PMSQLDBA/ITSM-Knowledge 
 
 ********************************************************************************************************************************************************
 ********************************************************************************************************************************************************
 
 Linux Administration -- https://github.com/PMSQLDBA/Linux-Administration 
-
-
-
-
 
