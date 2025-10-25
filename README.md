@@ -78,6 +78,8 @@ Welcome to the central index of all my Database Administration repositories.
 
 -[SSAS](https://github.com/PMSQLDBA/SSAS-Analysis-Services)
 
+-[MDM](https://github.com/PMSQLDBA/MDM-Mater-Data-Management)
+
 ************************************************************************************************************************************************
 ************************************************************************************************************************************************
 
