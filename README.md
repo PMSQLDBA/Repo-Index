@@ -128,10 +128,9 @@ Welcome to the central index of all my Database Administration repositories.
 
 -[ITSM Knowledge](https://github.com/PMSQLDBA/ITSM-Knowledge)
 
--[Instructors Guide] (https://github.com/PMSQLDBA/Instructors-Guide)
-
 ************************************************************************************************************************************************
 ************************************************************************************************************************************************
 -[Linux Administration](https://github.com/PMSQLDBA/Linux-Administration)
-
-
+************************************************************************************************************************************************
+************************************************************************************************************************************************
+-[Instructors Guide](https://github.com/PMSQLDBA/Instructors-Guide)
