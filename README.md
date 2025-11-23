@@ -8,8 +8,6 @@ Welcome to the central index of all my Database Administration repositories.
 
 -[SQL Server Architecture](https://github.com/PMSQLDBA/SQL-Server-Architecture)
 
--[ DB Architecture](https://github.com/PMSQLDBA/DB-Architecture) 
-
 -[TempDB (SQL Server)](https://github.com/PMSQLDBA/TempDB-SQL-Server)
 
 ************************************************************************************************************************************************
