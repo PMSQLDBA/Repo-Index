@@ -14,6 +14,8 @@ Welcome to the central index of all my Database Administration repositories.
 
 ************************************************************************************************************************************************
 ************************************************************************************************************************************************
+-[DB Architecture](https://github.com/PMSQLDBA/DB-Architecture)
+
 -[Backups-Restores](https://github.com/PMSQLDBA/Backups-Restores)
 
 -[DB Refresh](https://github.com/PMSQLDBA/DB-Refresh)
