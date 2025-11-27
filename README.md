@@ -51,6 +51,8 @@ Welcome to the central index of all my Database Administration repositories.
 
 -[SQL Server DB Performance Tuning](https://github.com/PMSQLDBA/SQL-Server-DB-Performance-Tuning)
 
+-[SQLHealthChecks](https://github.com/PMSQLDBA/SQLHealthChecks)
+
 ************************************************************************************************************************************************
 ************************************************************************************************************************************************
 -[SQL Server Patching](https://github.com/PMSQLDBA/SQL-Server-Patching)
