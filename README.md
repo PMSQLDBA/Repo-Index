@@ -67,6 +67,8 @@ Welcome to the central index of all my Database Administration repositories.
 
 -[SQL Server PowerShell DBATools](https://github.com/PMSQLDBA/SQL-Server-PowerShell-DBATools)
 
+-[Automation](https://github.com/PMSQLDBA/Automation)
+
 ************************************************************************************************************************************************
 ************************************************************************************************************************************************
 
