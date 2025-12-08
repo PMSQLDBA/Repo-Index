@@ -145,3 +145,5 @@ Welcome to the central index of all my Database Administration repositories.
 
 -[DBA Support 2025](https://github.com/PMSQLDBA/DBA_Support_2025)
 
+-[Book Summaries](https://github.com/PMSQLDBA/Book-Summaries)
+
