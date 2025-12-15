@@ -147,3 +147,5 @@ Welcome to the central index of all my Database Administration repositories.
 
 -[Book Summaries](https://github.com/PMSQLDBA/Book-Summaries)
 
+-[DBA Trainings PAID](https://github.com/PMSQLDBA/DBA-Trainings-PAID)
+
