@@ -152,3 +152,8 @@ Welcome to the central index of all my Database Administration repositories.
 
 -[DBA Trainings PAID](https://github.com/PMSQLDBA/DBA-Trainings-PAID)
 
+***************************************************************************************************************************************************
+***************************************************************************************************************************************************
+
+-[YOGA](https://github.com/PMSQLDBA/YOGA)
+
