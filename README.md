@@ -113,6 +113,8 @@ Welcome to the central index of all my Database Administration repositories.
 ************************************************************************************************************************************************
 -[Roles & Responsibilities On-Prem\Cloud](https://github.com/PMSQLDBA/Roles-Responsibilities-Onprem-Cloud)
 
+-[CLOUD LEARNINGS](https://github.com/PMSQLDBA/CLOUD-LEARNINGS)
+
 -[Cloud Articles](https://github.com/PMSQLDBA/Cloud-Articles)
 
 -[AWS Cloud](https://github.com/PMSQLDBA/AWS-Cloud)
