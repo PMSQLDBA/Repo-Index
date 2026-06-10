@@ -1,6 +1,6 @@
 # 📘 Repositories Index
 
-Welcome to the central index of DataEngieer, Onprem, Cloud Database Administration repositories.
+Welcome to the central index of DataEngineer, Onprem, Cloud Database Administration repositories.
 
 ************************************************************************************************************************************************
 ************************************************************************************************************************************************
