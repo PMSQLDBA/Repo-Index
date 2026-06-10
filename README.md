@@ -1,6 +1,25 @@
 # 📘 Repositories Index
 
-Welcome to the central index of all my Database Administration repositories.
+Welcome to the central index of DataEngieer, Onprem, Cloud Database Administration repositories.
+
+************************************************************************************************************************************************
+************************************************************************************************************************************************
+-[Roles & Responsibilities On-Prem\Cloud](https://github.com/PMSQLDBA/Roles-Responsibilities-Onprem-Cloud)
+
+-[DataEngineer-Azure-AWS](https://github.com/PMSQLDBA/DataEngineer-Azure-AWS)
+
+-[CLOUD LEARNINGS](https://github.com/PMSQLDBA/CLOUD-LEARNINGS)
+
+-[Cloud Articles](https://github.com/PMSQLDBA/Cloud-Articles)
+
+-[AWS Cloud](https://github.com/PMSQLDBA/AWS-Cloud)
+
+-[Azure Cloud](https://github.com/PMSQLDBA/Azure-Cloud)
+
+-[CosmosDB](https://github.com/PMSQLDBA/Cosmosdb)
+
+************************************************************************************************************************************************
+************************************************************************************************************************************************
 
 -[SQL Server History](https://github.com/PMSQLDBA/SQL-Server-History)
 
@@ -111,20 +130,6 @@ Welcome to the central index of all my Database Administration repositories.
 -[Apache Cassandra](https://github.com/PMSQLDBA/Cassandra-DBA)
 
 -[ScyllaDB](https://github.com/PMSQLDBA/ScyllaDB)
-
-************************************************************************************************************************************************
-************************************************************************************************************************************************
--[Roles & Responsibilities On-Prem\Cloud](https://github.com/PMSQLDBA/Roles-Responsibilities-Onprem-Cloud)
-
--[CLOUD LEARNINGS](https://github.com/PMSQLDBA/CLOUD-LEARNINGS)
-
--[Cloud Articles](https://github.com/PMSQLDBA/Cloud-Articles)
-
--[AWS Cloud](https://github.com/PMSQLDBA/AWS-Cloud)
-
--[Azure Cloud](https://github.com/PMSQLDBA/Azure-Cloud)
-
--[CosmosDB](https://github.com/PMSQLDBA/Cosmosdb)
 
 ************************************************************************************************************************************************
 ************************************************************************************************************************************************
