@@ -3,6 +3,7 @@
 Welcome to the central index of DataEngineer, Onprem, Cloud Database Administration repositories.
 
 ************************************************************************************************************************************************
+-[BloggingTips](https://github.com/PMSQLDBA/BloggingTips)
 ************************************************************************************************************************************************
 -[Roles & Responsibilities On-Prem\Cloud](https://github.com/PMSQLDBA/Roles-Responsibilities-Onprem-Cloud)
 
