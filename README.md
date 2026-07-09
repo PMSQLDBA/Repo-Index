@@ -3,7 +3,7 @@
 Central index for Onprem Databases, DataEngineer, DevOps, Onprem, Cloud Database Administration repositories.
 
 ************************************************************************************************************************************************
-**ONLY BELOW ARE PUBLIC MODE**
+**ONLY BELOW ARE IN PUBLIC MODE**
 
 -[FreeKnowledgeSharing](https://github.com/PMSQLDBA/FreeKnowledgeSharing)
 
