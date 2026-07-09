@@ -1,15 +1,22 @@
 # 📘 Repositories Index
 
-Welcome to the central index of DataEngineer, DevOps, Onprem, Cloud Database Administration repositories.
+Central index for Onprem Databases, DataEngineer, DevOps, Onprem, Cloud Database Administration repositories.
 
 ************************************************************************************************************************************************
+**ONLY BELOW ARE PUBLIC MODE**
+
+-[FreeKnowledgeSharing](https://github.com/PMSQLDBA/FreeKnowledgeSharing)
+
+-[BloggingTips](https://github.com/PMSQLDBA/BloggingTips)
+************************************************************************************************************************************************
+
+**BELOW ARE IN PRIVATE MODE**
+
 -[PROMPTS](https://github.com/PMSQLDBA/PROMPTS)
 ************************************************************************************************************************************************
 -[OnpremToCloud](https://github.com/PMSQLDBA/OnpremToCloud)
 
 -[DevOps](https://github.com/PMSQLDBA/DevOps)
-************************************************************************************************************************************************
--[BloggingTips](https://github.com/PMSQLDBA/BloggingTips)
 ************************************************************************************************************************************************
 -[Roles & Responsibilities On-Prem\Cloud](https://github.com/PMSQLDBA/Roles-Responsibilities-Onprem-Cloud)
 
