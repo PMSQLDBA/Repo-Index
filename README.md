@@ -14,7 +14,7 @@ Central index for Onprem Databases, DataEngineer, DevOps, Onprem, Cloud Database
 ************************************************************************************************************************************************
 -[Azure Cloud](https://github.com/PMSQLDBA/Azure-Cloud)
 
--[Azure MI] (https://github.com/PMSQLDBA/Azure-MI)
+-[Azure MI](https://github.com/PMSQLDBA/Azure-MI)
 
 -[AWS Cloud](https://github.com/PMSQLDBA/AWS-Cloud)
 
