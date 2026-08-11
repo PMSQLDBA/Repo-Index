@@ -11,12 +11,14 @@ Central index for Onprem Databases, DataEngineer, DevOps, Onprem, Cloud Database
 ************************************************************************************************************************************************
 
 **BELOW ARE IN PRIVATE MODE**
-
--[PROMPTS](https://github.com/PMSQLDBA/PROMPTS)
 ************************************************************************************************************************************************
--[OnpremToCloud](https://github.com/PMSQLDBA/OnpremToCloud)
+-[Azure Cloud](https://github.com/PMSQLDBA/Azure-Cloud)
 
--[DevOps](https://github.com/PMSQLDBA/DevOps)
+-[Azure MI] (https://github.com/PMSQLDBA/Azure-MI)
+
+-[AWS Cloud](https://github.com/PMSQLDBA/AWS-Cloud)
+
+************************************************************************************************************************************************
 ************************************************************************************************************************************************
 -[Roles & Responsibilities On-Prem\Cloud](https://github.com/PMSQLDBA/Roles-Responsibilities-Onprem-Cloud)
 
@@ -26,13 +28,15 @@ Central index for Onprem Databases, DataEngineer, DevOps, Onprem, Cloud Database
 
 -[Cloud Articles](https://github.com/PMSQLDBA/Cloud-Articles)
 
--[AWS Cloud](https://github.com/PMSQLDBA/AWS-Cloud)
 
--[Azure Cloud](https://github.com/PMSQLDBA/Azure-Cloud)
 
 -[CosmosDB](https://github.com/PMSQLDBA/Cosmosdb)
 
 ************************************************************************************************************************************************
+-[OnpremToCloud](https://github.com/PMSQLDBA/OnpremToCloud)
+
+-[DevOps](https://github.com/PMSQLDBA/DevOps)
+
 ************************************************************************************************************************************************
 
 -[SQL Server History](https://github.com/PMSQLDBA/SQL-Server-History)
@@ -181,4 +185,6 @@ Central index for Onprem Databases, DataEngineer, DevOps, Onprem, Cloud Database
 -[ROADMAP](https://github.com/PMSQLDBA/ROADMAP)
 
 -[YOGA](https://github.com/PMSQLDBA/YOGA)
+
+-[PROMPTS](https://github.com/PMSQLDBA/PROMPTS)
 
