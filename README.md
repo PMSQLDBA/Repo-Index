@@ -55,6 +55,24 @@ Central index for Onprem Databases, DataEngineer, DevOps, Onprem, Cloud Database
 -[AWS DocumentDB](https://github.com/PMSQLDBA/Amazon-DocumentDB)
 ************************************************************************************************************************************************
 ************************************************************************************************************************************************
+
+-[Oracle DBA]([https://github.com/PMSQLDBA/Oracle-DB-Administration](https://github.com/PMSQLDBA/Oracle-DBA))
+
+-[Oracle DBA Mallik Notes](https://github.com/PMSQLDBA/OracleDBA-Notes-Mallikarjun)
+
+-[MYSQL DBA](https://github.com/PMSQLDBA/MYSQL-DBA)
+
+-[PostgreSQL DBA](https://github.com/PMSQLDBA/PostgreSQL-DBA)
+
+-[MongoDB DBA](https://github.com/PMSQLDBA/MongoDB-DBA)
+
+-[MariaDB DBA](https://github.com/PMSQLDBA/MariaDB-DBA)
+
+-[DB2 DBA](https://github.com/PMSQLDBA/DB2-DBA)
+
+************************************************************************************************************************************************
+************************************************************************************************************************************************
+
 -[Roles & Responsibilities On-Prem\Cloud](https://github.com/PMSQLDBA/Roles-Responsibilities-Onprem-Cloud)
 
 -[DataEngineer-Azure-AWS](https://github.com/PMSQLDBA/DataEngineer-Azure-AWS)
@@ -161,22 +179,6 @@ Central index for Onprem Databases, DataEngineer, DevOps, Onprem, Cloud Database
 -[SSAS](https://github.com/PMSQLDBA/SSAS-Analysis-Services)
 
 -[MDM](https://github.com/PMSQLDBA/MDM-Mater-Data-Management)
-
-************************************************************************************************************************************************
-************************************************************************************************************************************************
-
--[Oracle DBA](https://github.com/PMSQLDBA/Oracle-DB-Administration)
--[Oracle DBA Mallik Notes](https://github.com/PMSQLDBA/OracleDBA-Notes-Mallikarjun)
-
--[MYSQL DBA](https://github.com/PMSQLDBA/MYSQL-DBA)
-
--[PostgreSQL DBA](https://github.com/PMSQLDBA/PostgreSQL-DBA)
-
--[MongoDB DBA](https://github.com/PMSQLDBA/MongoDB-DBA)
-
--[MariaDB DBA](https://github.com/PMSQLDBA/MariaDB-DBA)
-
--[DB2 DBA](https://github.com/PMSQLDBA/DB2-DBA)
 
 ************************************************************************************************************************************************
 ************************************************************************************************************************************************
