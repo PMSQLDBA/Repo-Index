@@ -18,6 +18,13 @@ Central index for Onprem Databases, DataEngineer, DevOps, Onprem, Cloud Database
 
 -[AWS Cloud](https://github.com/PMSQLDBA/AWS-Cloud)
 
+-[AWS RDS](https://github.com/PMSQLDBA/Amazon-RDS)
+
+-[AWS Aurora PostgreSQL](https://github.com/PMSQLDBA/Aurora-PostgreSQL-AWS)
+
+-[AWS DynamoDB](https://github.com/PMSQLDBA/Amazon-DynamoDB)
+
+-[AWS DocumentDB](https://github.com/PMSQLDBA/Amazon-DocumentDB)
 ************************************************************************************************************************************************
 ************************************************************************************************************************************************
 -[Roles & Responsibilities On-Prem\Cloud](https://github.com/PMSQLDBA/Roles-Responsibilities-Onprem-Cloud)
