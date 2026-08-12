@@ -1,9 +1,35 @@
+Hi All,
+
+I’ve moved my previously public GitHub repositories to private as I’m starting a new knowledge-sharing initiative.
+
+I’m offering access through a small one-time contribution for those preparing for interviews or looking to refresh their On-Prem & Cloud Administration skills.
+
+📌 Content includes:
+
+* On-Prem & Cloud Administration
+* Interview preparation & key concepts
+* Hands-on configurations
+* Troubleshooting & real-world scenarios
+* Technical notes and knowledge refreshers
+
+💡 One-time contribution — no recurring subscription.
+
+If you’re interested, I’d be happy to have a quick 15-minute discussion and explain what’s included.
+
+If not interested, please feel free to ignore this message.
+
+📱 WhatsApp: +91 98661 30093
+
+Thanks,
+Praveen
+
+
 # 📘 Repositories Index
 
 Central index for Onprem Databases, DataEngineer, DevOps, Onprem, Cloud Database Administration repositories.
 
 ************************************************************************************************************************************************
-**ONLY BELOW ARE IN PUBLIC MODE**
+**BELOW ARE IN PRIVATE MODE**
 
 -[FreeKnowledgeSharing](https://github.com/PMSQLDBA/FreeKnowledgeSharing)
 
