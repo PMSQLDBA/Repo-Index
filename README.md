@@ -14,7 +14,7 @@ I’m offering access through a small one-time contribution for those preparing 
 
 💡 One-time contribution — no recurring subscription.
 
-If you’re interested, I’d be happy to have a quick 15-minute discussion and explain what’s included.
+If you’re interested, I’d be happy to have a quick 10-minute discussion and explain what’s included.
 
 If not interested, please feel free to ignore this message.
 
