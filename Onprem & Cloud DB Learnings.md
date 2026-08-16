@@ -4,9 +4,13 @@
 📚 **Monthly Subscription Includes:**
 
 ✅ Knowledge Refresh Notes — SQL Server, PostgreSQL, MongoDB, AWS & Azure
+
 ✅ SQL Server DBA Administration Automation Tasks & Scripts
+
 ✅ FAQs & practical knowledge on the above technologies
+
 ✅ Basic & limited support over WhatsApp — 24×7
+
 ✅ Weekly Career Guidance Meetups — Saturday & Sunday *(minimum 3 hours per session)*
 
 💰 **Monthly Subscription Fee: ₹2,500**
