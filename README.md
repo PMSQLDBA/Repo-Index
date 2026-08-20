@@ -58,7 +58,7 @@ Central index for Onprem Databases, DataEngineer, DevOps, Onprem, Cloud Database
 
 -[Oracle DBA]([https://github.com/PMSQLDBA/Oracle-DB-Administration](https://github.com/PMSQLDBA/Oracle-DBA))
 
--[Oracle DBA Mallik Notes](https://github.com/PMSQLDBA/OracleDBA-Notes-Mallikarjun)
+-[Oracle DBA Notes](https://github.com/PMSQLDBA/OracleDBA-Notes-Mallikarjun)
 
 -[MYSQL DBA](https://github.com/PMSQLDBA/MYSQL-DBA)
 
